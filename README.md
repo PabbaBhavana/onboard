@@ -26,3 +26,6 @@ When a customer cancels a subscription the end date will be updated as today and
 Validations are implemented using Jakarta Annotations
 
 Integrated swagger using springdoc-openapi-starter-webmvc-ui dependency
+<img width="1440" alt="Screen Shot 2024-01-24 at 9 45 32 PM" src="https://github.com/PabbaBhavana/onboard/assets/61388648/33c167e0-6a24-425e-b049-0a96e03c6793">
+
+
