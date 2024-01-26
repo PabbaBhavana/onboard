@@ -27,5 +27,7 @@ Validations are implemented using Jakarta Annotations
 
 Integrated swagger using springdoc-openapi-starter-webmvc-ui dependency
 <img width="1440" alt="Screen Shot 2024-01-24 at 9 45 32 PM" src="https://github.com/PabbaBhavana/onboard/assets/61388648/33c167e0-6a24-425e-b049-0a96e03c6793">
-
+<img width="1440" alt="Screen Shot 2024-01-24 at 9 45 42 PM" src="https://github.com/PabbaBhavana/onboard/assets/61388648/33690ea2-8403-400b-be08-bce4fe908e7b">
+<img width="1440" alt="Screen Shot 2024-01-24 at 9 45 56 PM" src="https://github.com/PabbaBhavana/onboard/assets/61388648/a268449f-9706-434c-b8e7-b15d765c3ec9">
+<img width="1440" alt="Screen Shot 2024-01-24 at 9 45 49 PM" src="https://github.com/PabbaBhavana/onboard/assets/61388648/72b83fc2-b5d0-423f-bbba-4ba7e0551598">
 
