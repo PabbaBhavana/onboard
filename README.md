@@ -24,3 +24,5 @@ Service (id,description,name)
 When a customer subscribes to a service a new subscription object will be created with enddate as null and start date as today.
 When a customer cancels a subscription the end date will be updated as today and status will be set to cancel
 Validations are implemented using Jakarta Annotations
+
+Integrated swagger using springdoc-openapi-starter-webmvc-ui dependency
